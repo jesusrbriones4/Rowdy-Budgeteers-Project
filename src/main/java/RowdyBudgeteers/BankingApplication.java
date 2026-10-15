@@ -9,7 +9,7 @@ import javafx.stage.Stage;
 public class BankingApplication extends Application{
     @Override
     public void start(Stage primaryStage) throws Exception {
-
+        System.out.println("Print");
     }
     public static void main(String[] args) {
         System.out.println(" Hello ");
